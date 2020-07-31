@@ -7,7 +7,7 @@ category:
     - arduino
     - microcontroller
 summary: Making of Wattmeter
-thumbnail: "wattmeter.png"
+thumbnail: "/assets/img/posts/wattmeter.png"
 keywords: wattmeter,how to build wattmeter,learn making wattmater
 permalink: /blog/making-of-wattmeter
 ---

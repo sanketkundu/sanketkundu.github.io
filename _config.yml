@@ -46,11 +46,23 @@ author_work_experiences:
               visibility: false
 
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+              - college_logo: /education/bmsit.png
+                college_name: BMSIT
+                college_url: https://bmsit.ac.in/
+                college_degree: Electronics Engineer
+                description: Pursuing BTECH
+                visibility: true
+              - college_logo: /education/narayana.jpg
+                college_name: Narayana
+                college_url: http://www.necn.ac.in/
+                college_degree: PU College 
+                college_description: 11th 12th
+                visibility: true
+              - college_logo: /education/mount.png
+                college_name: Mount Convent High Sec. School
+                college_url:
+                college_degree: High School CBSE
+                college_description: up to 10th
                 visibility: true
 
 author_project_details:
