@@ -84,7 +84,7 @@ it looked somewhat like this:
 
 fig: interface:
 
-![controller config](/assets/img/posts/controller-configuration.jpeg "controller config")
+![controller config](/assets/img/posts/controller-configuration.jpeg "controller config"){:class="img-fluid"}
 
 i refered alot of websites to understand the code and made changes to them according to my remote.
 Later we switched to the project remote and made changes with respect to that
