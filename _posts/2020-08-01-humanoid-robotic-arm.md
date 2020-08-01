@@ -173,6 +173,6 @@ Benefits I recieved from this project:
 5.How stepper motor works.
 6.Knowledge of 3D printing,cost and designing.
 7.Time management.
-8.Knowledge of autodesk fusion to model different things.
+8.Knowledge of autodesk inventor to model different things.
 
 A special thanks to my partner ,Harsh Biradar and Li2 pvt ltd. who gave me assistance in every turn.
