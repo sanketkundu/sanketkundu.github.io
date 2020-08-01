@@ -26,7 +26,6 @@ Fig:block diagram:
 
 ![block diagram](/assets/img/posts/block-diagram.jpg "block diagram"){:class="img-fluid"}
 
-
 The components were brought in terms:
 1.Fig:4 DC motors:
 
@@ -81,6 +80,11 @@ Soon I started working on remote control,since that was the essential part of th
 The remote used in testing was of my own(later we switched to new one).It communicated with the arduino using [processing](https://learn.sparkfun.com/tutorials/connecting-arduino-to-processing/all#shaking-hands-part-1).
 The controls of the remote was assigned with the help of open source[ library](https://github.com/madsci1016/Arduino-PS2X) of ps controller.
 
+it looked somewhat like this:
+
+fig: interface:
+
+![controller config](/assets/img/posts/controller-configuration.jpeg "controller config")
 
 i refered alot of websites to understand the code and made changes to them according to my remote.
 Later we switched to the project remote and made changes with respect to that
