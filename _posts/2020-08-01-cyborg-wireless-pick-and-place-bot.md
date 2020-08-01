@@ -74,6 +74,8 @@ The components were brought in terms:
 
 With the help of arduino Ide the capability of 1 motor driver was tested using arduino nano.
 Video:motor testing(https://youtu.be/_IHGFBZqqDA)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_IHGFBZqqDA?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+
 So it was clear that with enough power supply 2 motors can be handled by 1 motor driver.
 
 Soon I started working on remote control,since that was the essential part of the whole project
@@ -91,22 +93,31 @@ Later we switched to the project remote and made changes with respect to that
 We followed [this](https://create.arduino.cc/projecthub/electropeak/how-to-interface-ps2-wireless-controller-w-arduino-a0a813).
 
 Video:test1 muted(https://youtu.be/SHIadfyKoNc)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SHIadfyKoNc?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+
 
 Changes in the codes were made for the 4 motors to run on the commands from the buttons in the remote.
 Video: test 2 rotate(https://youtu.be/R65iKdqmpW0)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R65iKdqmpW0?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+
 
 The gripper was assembled in aluminium frame(we chose because it was light weight and strong enough to lift the load).
 Video:gripper arm(https://youtu.be/dUHcaW6d7wk)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dUHcaW6d7wk?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 The remote control was switched to ps2 remote and testing of 2 motors was done with that.
 
 video:using ps2 remote(https://youtu.be/i-iZ11XMtY8)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i-iZ11XMtY8?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 It took few days to assemble everything properly with lot of test and failures.
 Video:test 3(https://youtu.be/Pdzf2LAYW0w)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Pdzf2LAYW0w?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 With all components the test run was made in small area,few errors were discovered in the program and as well as design,which were solved in further trials.
 Video: 1st Run(https://youtu.be/LvdvFGiKxSY)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LvdvFGiKxSY?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 This is the final run we had with all the components installed and working.
 Video: mute Final run(https://youtu.be/vXyIbaD5Q_8)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vXyIbaD5Q_8?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
