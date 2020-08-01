@@ -61,7 +61,7 @@ The components were brought in terms:
 
 9.Fig:Aluminium frame:
 
-![aluminium frame](/assets/img/posts/aluminium-arm.jpeg "aluminium frame"){:class="img-fluid"}
+![aluminium](/assets/img/posts/webp.net-resizeimage-1-.jpg "aluminium"){:class="img-fluid"}
 
 10.Fig:4 wheels:
 
@@ -73,6 +73,7 @@ The components were brought in terms:
 {:class="img-fluid"}
 
 With the help of arduino Ide the capability of 1 motor driver was tested using arduino nano.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_IHGFBZqqDA?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 So it was clear that with enough power supply 2 motors can be handled by 1 motor driver.
