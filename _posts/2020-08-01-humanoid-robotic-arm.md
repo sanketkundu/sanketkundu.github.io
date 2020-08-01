@@ -8,7 +8,7 @@ category: Arduino,3D printing,Nema motors
 summary: Humanoid robotic arm made using 3d printed parts,nema (stepper motors)
   and controlled using arduino and interfaced with pronterface.
 keywords: Humanoid robotic arm,Nema motors,using pronterface
-thumbnail: /assets/img/posts/post-img.png
+thumbnail: /assets/img/posts/assembly2.jpg
 permalink: /blog/humanoid-robotic-arm
 ---
 Hello! My next creation(more likely training) was **Humanoid Robotic Arm**!
