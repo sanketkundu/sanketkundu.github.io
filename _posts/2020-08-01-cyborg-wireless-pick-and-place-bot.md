@@ -24,61 +24,54 @@ The plan was divide into 2 parts.
 The block diagram of the whole project was simple.
 Fig:block diagram:
 
-![block diagram](/assets/img/posts/block-diagram.jpg "block diagram")
+![block diagram](/assets/img/posts/block-diagram.jpg "block diagram"){:class="img-fluid"}
+
 
 The components were brought in terms:
 1.Fig:4 DC motors:
 
-![4 DC motors](/assets/img/posts/4-dc-motors.jpeg "4 DC motors:")
-
+![4 DC motors](/assets/img/posts/4-dc-motors.jpeg "4 DC motors:"){:class="img-fluid"}
 
 2.Fig: Chasis:
 
-![Chasis](/assets/img/posts/chasis.jpeg "Chasis")
-
+![Chasis](/assets/img/posts/chasis.jpeg "Chasis"){:class="img-fluid"}
 
 3.Fig: Arduino mega:
 
-![Arduino mega](/assets/img/posts/arduino-mega.jpg "Arduino mega")
-
+![Arduino mega](/assets/img/posts/arduino-mega.jpg "Arduino mega"){:class="img-fluid"}
 
 4.Fig: Wireless remote:
 
-![ Wireless remote](/assets/img/posts/remote.jfif " Wireless remote")
-
+![ Wireless remote](/assets/img/posts/remote.jfif " Wireless remote"){:class="img-fluid"}
 
 5.Fig:Cables:
 
-![cables](/assets/img/posts/cables.jfif "cables")
-
+![cables](/assets/img/posts/cables.jfif "cables"){:class="img-fluid"}
 
 6.Fig: 2 motor drivers(ln298N):
 
-![ln298n](/assets/img/posts/ln298n.jpg "ln298n")
-
+![ln298n](/assets/img/posts/ln298n.jpg "ln298n"){:class="img-fluid"}
 
 7.Fig:Bread board:
 
-![breadboard](/assets/img/posts/breadboard.jpg "breadboard")
-
+![breadboard](/assets/img/posts/breadboard.jpg "breadboard"){:class="img-fluid"}
 
 8.Fig:Lead acid battery(12V):
 
-![battery](/assets/img/posts/battery-12v-7ah-sealed-lead-acid.jpg "battery")
-
+![battery](/assets/img/posts/battery-12v-7ah-sealed-lead-acid.jpg "battery"){:class="img-fluid"}
 
 9.Fig:Aluminium frame:
 
-![aluminium frame](/assets/img/posts/aluminium-arm.jpeg "aluminium frame")
-
+![aluminium frame](/assets/img/posts/aluminium-arm.jpeg "aluminium frame"){:class="img-fluid"}
 
 10.Fig:4 wheels:
 
-![4 wheels](/assets/img/posts/wheels.jpg "4 wheels")
+![4 wheels](/assets/img/posts/wheels.jpg "4 wheels"){:class="img-fluid"}
 
 11. Fig:gripper mechanism:
 
-    ![gripper mechanism](/assets/img/posts/gripper-mechanism.jpeg "gripper mechanism")
+![gripper mechanism](/assets/img/posts/gripper-mechanism.jpeg "gripper mechanism")
+{:class="img-fluid"}
 
 With the help of arduino Ide the capability of 1 motor driver was tested using arduino nano.
 Video:motor testing(https://youtu.be/_IHGFBZqqDA)
