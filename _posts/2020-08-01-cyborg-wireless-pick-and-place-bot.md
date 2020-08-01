@@ -29,7 +29,7 @@ Fig:block diagram:
 The components were brought in terms:
 1.Fig:4 DC motors:
 
-![4 DC motors](/assets/img/posts/4-dc-motors.jpeg "4 DC motors:"){:class="img-fluid"}
+![4 dc motors](/assets/img/posts/4dc-motors.jpg "4 dc motors"){:class="img-fluid"}
 
 2.Fig: Chasis:
 
