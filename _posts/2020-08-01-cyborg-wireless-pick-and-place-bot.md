@@ -2,7 +2,7 @@
 layout: post
 author: Sanket Kundu
 title: Cyborg(Wireless Pick and place bot)
-date: 2020-03-31T08:00:11.975Z
+date: 2020-03-31T11:00:11.975Z
 thumbnail-img: /assets/img/posts/main.jpg
 category: arduino,motors,mobility
 summary: a small prototype of wireless pick and place bot used in military and
