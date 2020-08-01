@@ -33,7 +33,7 @@ The components were brought in terms:
 
 2.Fig: Chasis:
 
-![Chasis](/assets/img/posts/chasis.jpeg "Chasis"){:class="img-fluid"}
+![chasis](/assets/img/posts/chais.jpg "chasis"){:class="img-fluid"}
 
 3.Fig: Arduino mega:
 
@@ -49,7 +49,7 @@ The components were brought in terms:
 
 6.Fig: 2 motor drivers(ln298N):
 
-![ln298n](/assets/img/posts/ln298n.jpg "ln298n"){:class="img-fluid"}
+![l298n](/assets/img/posts/l298n.jpg "l298n"){:class="img-fluid"}
 
 7.Fig:Bread board:
 
@@ -57,7 +57,7 @@ The components were brought in terms:
 
 8.Fig:Lead acid battery(12V):
 
-![battery](/assets/img/posts/battery-12v-7ah-sealed-lead-acid.jpg "battery"){:class="img-fluid"}
+![leadacid ](/assets/img/posts/bat.jpg "leadacid"){:class="img-fluid"}
 
 9.Fig:Aluminium frame:
 
@@ -69,8 +69,7 @@ The components were brought in terms:
 
 11. Fig:gripper mechanism:
 
-![gripper mechanism](/assets/img/posts/gripper-mechanism.jpeg "gripper mechanism")
-{:class="img-fluid"}
+![gripper](/assets/img/posts/grip.jpg "gripper"){:class="img-fluid"}
 
 With the help of arduino Ide the capability of 1 motor driver was tested using arduino nano.
 
