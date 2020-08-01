@@ -67,7 +67,6 @@ Fig:Jumper wires:
 
 **2nd week**:
 We started learning 3D printing from the incharge ,have a look what it looked like!!
-Video:3d printer view (https://youtu.be/Bhml2e7C60I)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bhml2e7C60I?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
@@ -115,10 +114,11 @@ We started with the upper body and voila!!
 
 The upper motor wasn’t responding properly:
 
-Video:upper motor failure(https://youtu.be/66UEDwFwmCo)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/66UEDwFwmCo?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 It took 2 days to rectify it
-Video:upper motor test(https://youtu.be/XTS9jxpSqSc)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XTS9jxpSqSc?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 The only way to know other motors worked was to test after assembly of everything .The model was assembled without second thought about the base and we ended up having no base to keep the structure.The platform was searched and it was decided that the whole assembly had to be bolted down to a platform(we had to unscrew everything again!!!)
 
@@ -141,29 +141,36 @@ Fig:Formation:
 After the assembly was bolted and assembled properly(finally!!!) ,the first test was run.
 and guess what?it was complete failure.
 
-Video:test 0(https://youtu.be/1j0MBw1Di8U)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1j0MBw1Di8U?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+
 
 To know the cause, we dismantled it
 
-Video:test 0 problem(https://youtu.be/ZgJZGAjicaQ)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZgJZGAjicaQ?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 We arrived at our 2nd problem. 
 
-Video: motor test not working(https://youtu.be/P8kmNxAdZOA)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P8kmNxAdZOA?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 The problem was still persisted after few attempts,but after testing so many times we got little bit information about the error.
 
-Video: problem identification 1(https://youtu.be/AGgInzR-ozE)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AGgInzR-ozE?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
-It took few more attempts to understand the proper problem.
-Video:problem identification 2(https://youtu.be/01uu97VMBLo)
+
+It took few more attempts to understand the proper problem
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/01uu97VMBLo?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+
 
 It took 1 or 2 days and many attempts to rectify it.
 
-Video:motor success(https://youtu.be/_gCgqmMDu0I)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_gCgqmMDu0I?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+
 
 This is the working model we recorded .
-Video:final run (https://youtu.be/_FPGHSQDmDg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_FPGHSQDmDg?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+
 
 Benefits I recieved from this project:
 1.An entirely new experience
