@@ -8,7 +8,7 @@ category: Arduino,3D printing,Nema motors
 summary: Humanoid robotic arm made using 3d printed parts,nema (stepper motors)
   and controlled using arduino and interfaced with pronterface.
 keywords: Humanoid robotic arm,Nema motors,using pronterface
-thumbnail: /assets/img/posts/assembly2.jpg
+thumbnail: /assets/img/posts/assembly21.jpg
 permalink: /blog/humanoid-robotic-arm
 ---
 Hello! My next creation(more likely training) was **Humanoid Robotic Arm**!
@@ -29,25 +29,25 @@ For reference I made an approximate drawing for the location of the motors and i
 
 Fig: drawing :
 
-![drawing](/assets/img/posts/diagram.jpg "drawing"){:class="img-fluid"}
+![diagram](/assets/img/posts/diagram1.jpg "diagram"){:class="img-fluid"}
 
 These are some of the main components we used:(more are given in BOM ([pdf](https://drive.google.com/file/d/14LHNKQbmhss2dg5fZe8fYuVJrBUtA915/view?usp=sharing)))
 
 Fig: arduino mega:
 
-![arduino mega](/assets/img/posts/arduino-mega.jpg "arduino mega"){:class="img-fluid"}
+![arduinomega](/assets/img/posts/arduinomega.jpg "arduinomega"){:class="img-fluid"}
 
 Fig:Stepper Motor SM42HT47(nema 17):
 
-![Stepper Motor SM42HT47(nema 17)](/assets/img/posts/stepper-motor-sm42ht47-nema-17-.jpg "Stepper Motor SM42HT47(nema 17)"){:class="img-fluid"}
+![nema17](/assets/img/posts/17nema.jpg "nema17"){:class="img-fluid"}
 
 Fig: Nema23:
 
-![Nema 23](/assets/img/posts/nema-23.jpg "Nema 23"){:class="img-fluid"}
+![nema 23](/assets/img/posts/nema23.jpg "nema23"){:class="img-fluid"}
 
 Fig: Stepper motor driver (tb6560):
 
-![Stepper motor driver (tb6560)](/assets/img/posts/tb6560.jpg "Stepper motor driver (tb6560)"){:class="img-fluid"}
+![tb6560](/assets/img/posts/tb65601.jpg "tb6560"){:class="img-fluid"}
 
 Fig: Gear Ratio 51 Planetary Gearbox Nema 17 Stepper:
 
@@ -59,7 +59,7 @@ Fig: Servo:
 
 Fig:Power supply 24V:
 
-![Power supply 24V](/assets/img/posts/24-v-power-supply.jpg "Power supply 24V"){:class="img-fluid"}
+![24v power supply](/assets/img/posts/powersupply.jpg "24v power supply"){:class="img-fluid"}
 
 Fig:Jumper wires:
 
@@ -73,12 +73,12 @@ We started learning 3D printing from the incharge ,have a look what it looked li
 The gripper parts after 3D printing.
 Fig: 3D printed gripper parts:
 
-![3D printed gripper parts](/assets/img/posts/3d-printed-gripper.jpg "3D printed gripper parts"){:class="img-fluid"}
+![printedparts](/assets/img/posts/3dprintedgripper.jpg "printedparts"){:class="img-fluid"}
 
 The base and middle part
 Fig: Base and Mid part:
 
-![Base and Mid part](/assets/img/posts/mid-part.jpg "Base and Mid part"){:class="img-fluid"}
+![basemid](/assets/img/posts/midpart.jpg "basemid"){:class="img-fluid"}
 
 It took almost took 2 weeks just to gather the things because of delay in delivery and availability of the components in the market,we had to go market about 5 or 6 times,just because of unavailability and sometimes because of our mistakes.
 
@@ -87,18 +87,19 @@ We started assembly after completion and ongoing printing of some parts
 Here is the logic diagram
 Fig: Logic:
 
-![ Logic](/assets/img/posts/diagram.png " Logic"){:class="img-fluid"}
+![logic](/assets/img/posts/logic.jpg "logic"){:class="img-fluid"}
 
 The base was assemble first without motors,as it was important to check whether the parts fit according to the requirements.
 Fig: Assembly1:
 
-![Assembly1](/assets/img/posts/assembly-1.jpg "Assembly1"){:class="img-fluid"}
+![assembly1](/assets/img/posts/assembly1.jpg "assembly1"){:class="img-fluid"}
 
-Since the top were still being printed (each print took 6-7 hours) , the assembly of the gripper was done
+Since the top were still being printed (
+each print took 6-7 hours) , the assembly of the gripper was done
 
 Fig: Gripper:
 
-![Gripper](/assets/img/posts/gripper.jpg "Gripper"){:class="img-fluid"}
+![gripper](/assets/img/posts/gripper1.jpg "gripper"){:class="img-fluid"}
 
 After printing all the parts we started testing the motors arrived according to the specifications.
 We assembled all the motors with the parts,it was time taking task as the parts had to be opened again and each screw had its importance (we had to search many times as they used to roll away).
@@ -106,7 +107,7 @@ We assembled all the motors with the parts,it was time taking task as the parts 
 After assembly it looked like this
 Fig: Assembly 2:
 
-![ Assembly 2](/assets/img/posts/assembly2.jpg " Assembly 2"){:class="img-fluid"}
+![assembly 2](/assets/img/posts/assembly21.jpg "assembly 2"){:class="img-fluid"}
 
 Still we had to check whether the motors work under the load of the bolts
 We started with the upper body and voila!!
@@ -124,17 +125,17 @@ The only way to know other motors worked was to test after assembly of everythin
 
 Fig :Before assembly:
 
-![Before assembly](/assets/img/posts/before-formation.jpg "Before assembly"){:class="img-fluid"}
+![before assembly](/assets/img/posts/beforeformation1.jpg "before assembly"){:class="img-fluid"}
 
 After we assembled:
 
 Fig:Formation side view:
 
-![Formation side view](/assets/img/posts/formation-side-view.jpg "Formation side view"){:class="img-fluid"}
+![sideview](/assets/img/posts/formationsideview1.jpg "sideview"){:class="img-fluid"}
 
 Fig:Formation:
 
-![Formation](/assets/img/posts/formation.jpg "Formation"){:class="img-fluid"}
+![formation](/assets/img/posts/formation1.jpg "formation"){:class="img-fluid"}
 
 **4th week**:
 
@@ -142,7 +143,6 @@ After the assembly was bolted and assembled properly(finally!!!) ,the first test
 and guess what?it was complete failure.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1j0MBw1Di8U?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
-
 
 To know the cause, we dismantled it
 
@@ -156,21 +156,17 @@ The problem was still persisted after few attempts,but after testing so many tim
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AGgInzR-ozE?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
-
 It took few more attempts to understand the proper problem
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/01uu97VMBLo?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
-
 
 It took 1 or 2 days and many attempts to rectify it.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_gCgqmMDu0I?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
-
 This is the working model we recorded .
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_FPGHSQDmDg?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
-
 
 Benefits I recieved from this project:
 1.An entirely new experience
